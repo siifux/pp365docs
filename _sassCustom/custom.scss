@@ -1,0 +1,20 @@
+@import "sass/setup";
+
+.nav-list .nav-list-item .nav-list-link {
+    color: $white;
+}
+
+.site-title:hover,
+.nav-list .nav-list-item .nav-list-link.active,
+.nav-list .nav-list-item .nav-list-link:hover,
+.nav-list .nav-list-item .nav-list-expander:hover {
+    background-image: linear-gradient(-90deg, $sharecontrol-3 0%, $sharecontrol-1 80%, rgba(235, 237, 245, 0) 100%)
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+    color: $white;
+}
+
+.site-footer {
+    color: $white;
+}
