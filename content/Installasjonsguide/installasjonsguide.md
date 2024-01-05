@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 has_children : true
 ---
-{% include_relative sass/setup.scss %}
+<!-- {% include_relative sass/setup.scss %} -->
 # Hvordan installere Prosjektoversikt løsningen i Power Platform
 
 Nedenfor finner du innholdet i installasjonsguiden. 
